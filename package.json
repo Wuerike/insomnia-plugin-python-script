@@ -1,0 +1,19 @@
+{
+  "name": "insomnia-plugin-python-script",
+  "version": "0.1.0",
+  "insomnia": {
+    "name": "python-script",
+    "displayName": "Python Script",
+    "description": "Run python3 script.",
+    "images": {
+      "icon": "npm/content/logo.png"
+    }
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "python",
+    "script"
+  ],
+  "main": "main.js"
+}
