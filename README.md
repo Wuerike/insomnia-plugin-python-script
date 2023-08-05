@@ -1,5 +1,7 @@
 # Insomnia Python Script
 
+[![](https://img.shields.io/npm/v/insomnia-plugin-python-script.svg)](https://www.npmjs.com/package/insomnia-plugin-python-script)
+
 Run any complex logic with python and get the result with Insomnia.
 
 ## Prerequisites
