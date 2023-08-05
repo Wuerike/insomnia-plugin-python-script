@@ -19,7 +19,7 @@ Run any complex logic with python and get the result with Insomnia.
 
 ### Write your complex python script
 
-Your script must return de desired result by printing it.
+Your script must return the desired result by printing it.
 
 At `~/path/to/file.py`:
 ```
