@@ -1,6 +1,12 @@
 {
   "name": "insomnia-plugin-python-script",
+  "author": "Wuerike Cavalheiro",
   "version": "0.1.0",
+  "homepage": "https://insomnia.rest/plugins/insomnia-plugin-python-script",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuerike/insomnia-plugin-python-script"
+  },
   "insomnia": {
     "name": "python-script",
     "displayName": "Python Script",
